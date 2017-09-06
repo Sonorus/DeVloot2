@@ -2,3 +2,10 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+body{
+	background-image: url("css/grfx/bg.png");
+	font-family: sans-serif;
+	background-repeat: repeat-x;
+	background-size: auto;
+}
